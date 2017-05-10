@@ -1,0 +1,47 @@
+Codes     Char      Name                         Traditional    Example
+U+0410      А       CYRILLIC CAPITAL LETTER A   А҆́зъ           А҆да́мꙋ же
+U+0430      а       CYRILLIC SMALL LETTER A    а҆́зъ
+    буки
+    веди
+    глаголь
+    добро
+    есть
+    живете
+    зело
+    земля
+    иже
+U+0457 ї   CYRILLIC SMALL LETTER YI и въꙁвраще́нїе
+U+0456 и U+0301 і́ CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I & combining acute accent е҆ді́нъ
+    како
+    люди
+U+043c м   CYRILLIC SMALL LETTER EM мыслѣте хлѣ́бъ
+U+2DE8  ⷨ  COMBINING CYRILLIC LETTER EM  мыслѣте надстрочно а҆даⷨ
+    наш
+    он
+    покой
+    рцы
+    слово
+    твердо
+U+A64B  ꙋ    cyrillic small letter monograph uk икъ женꙋ̀
+    ферт
+    хер
+    от
+    цы
+    червь
+    ша
+    ща
+    ер
+    еры
+    ерь
+U+0463 ѣ   CYRILLIC SMALL LETTER YAT ять хлѣ́бъ
+    ю
+U+0467  ѧ  CYRILLIC SMALL LETTER LITTLE YUS юс  ꙁемлѧ̀
+    я
+    кси
+    пси
+    фита
+    ижица
+U+0300   а̀  combining grave accent (VARIA) вари́ѧ ꙁемлѧ̀
+U+0301  ́  combining acute accent острое ударение  дре́ва
+U+0486  ҆ combining cyrilic psili pneumata зва́тельцо   А҆
+U+0486 и U+0301  а҆́ combining cyrilic psili pneumata & combining acute accent  и҆́со а҆́ще
