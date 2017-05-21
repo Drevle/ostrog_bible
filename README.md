@@ -1,6 +1,6 @@
 # Острожская Библия 1581 г. -- полный текст в Unicode
 
-[![Join the chat at https://gitter.im/drevle/ostrog_bible](https://badges.gitter.im/drevle/ostrog_bible.svg)](https://gitter.im/drevle/ostrog_bible?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/drevle](https://badges.gitter.im/drevle.svg)](https://gitter.im/drevle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Данные о издании
 - Источник: БИБЛИЯ Острог, 1581. [Экземпляр собрания М. Н. Тихомирова, № 22-к]
