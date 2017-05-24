@@ -2,7 +2,7 @@ Codes     Char      Name                         Traditional    Example
 U+0410      А       CYRILLIC CAPITAL LETTER A   А҆́зъ           А҆да́мꙋ же
 U+0430      а       CYRILLIC SMALL LETTER A    а҆́зъ
     буки
-    веди
+U+0412 В CYRILLIC CAPITAL LETTER VE веди Въспо́ю
     глаголь
     добро
     есть
@@ -12,6 +12,7 @@ U+0455 ѕ CYRILLIC SMALL LETTER DZE    зѣлѡ
     земля
 U+0418 И CYRILLIC CAPITAL LETTER I иже И҆
 U+0438 и CYRILLIC SMALL LETTER I и҆
+U+0407 Ї (0406?) CYRILLIC CAPITAL LETTER YI Їи́мꙋтьсѧ
 U+0457 ї   CYRILLIC SMALL LETTER YI и въꙁвраще́нїе
 U+0456 and U+0301 і́ CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I & combining acute accent е҆ді́нъ
     како
@@ -49,11 +50,11 @@ U+0467  ѧ  CYRILLIC SMALL LETTER LITTLE YUS ѧ  ꙁемлѧ̀
 U+046F ѯ CYRILLIC SMALL LETTER KSI кси а҆н̾фраѯъ
     пси
 U+0473 ѳ CYRILLIC SMALL LETTER FITA саваѻ́ѳ̾ фита
-    ижица
+U+0475 ѵ CYRILLIC SMALL LETTER IZHITSA ижица тѵⷨпа́ны
 U+0311  ̑ combining inverted breve (kamora) камо́ра свое̑го
 U+0300   а̀  combining grave accent (VARIA) вари́ѧ ꙁемлѧ̀
 U+0301  ́  combining acute accent оѯи́ѧ  дре́ва
-U+0486  ҆ combining cyrilic psili pneumata зва́тельцо   А҆ (If the word begins with vovel 0486 should be used; do not confuse with 0311) 
+U+0486  ҆ combining cyrilic psili pneumata зва́тельцо   А҆ (If the word begins with vovel 0486 should be used; do not confuse with 0311)
 U+0486 и U+0301  а҆́ combining cyrilic psili pneumata & combining acute accent  и҆́со а҆́ще
 U+002E . FULL STOP точка хощꙋ .
 U+00B7 · MIDDLE DOT ꙗ҆ви́ти ми сѧ · should be replaced with U+0387 GREEK ANO TELEIA  ·
