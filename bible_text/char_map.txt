@@ -7,41 +7,60 @@ U+0430      а       CYRILLIC SMALL LETTER A    а҆́зъ
     добро
     есть
     живете
-    зело
+U+2DE4  ⷤ COMBINING CYRILLIC LETTER ZHE живете надстрочно страⷤба
+U+0455 ѕ CYRILLIC SMALL LETTER DZE    зѣлѡ
     земля
-    иже
+U+0418 И CYRILLIC CAPITAL LETTER I иже И҆
+U+0438 и CYRILLIC SMALL LETTER I и҆
 U+0457 ї   CYRILLIC SMALL LETTER YI и въꙁвраще́нїе
-U+0456 и U+0301 і́ CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I & combining acute accent е҆ді́нъ
+U+0456 and U+0301 і́ CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I & combining acute accent е҆ді́нъ
     како
+U+2DE6 ⷦ and U+0487 COMBINING CYRILLIC LETTER KA and COMBINING CYRILLIC POKRYTIE како надстрочно ꙗ҆ꙁыⷦ҇
     люди
-U+043c м   CYRILLIC SMALL LETTER EM мыслѣте хлѣ́бъ
+U+043c м   CYRILLIC SMALL LETTER EM мыслѣте
 U+2DE8  ⷨ  COMBINING CYRILLIC LETTER EM  мыслѣте надстрочно а҆даⷨ
     наш
     он
     покой
     рцы
-    слово
-    твердо
-U+A64B  ꙋ    cyrillic small letter monograph uk икъ женꙋ̀
+U+0421 С CYRILLIC CAPITAL LETTER ES слово Сребро̀
+U+0441 с CYRILLIC SMALL LETTER ES слово си́ротамъ
+U+2DED ⷭ and U+0487 COMBINING CYRILLIC LETTER ES and COMBINING CYRILLIC POKRYTIE слово надстрочно і҆ерⷭ҇лі́ма
+U+2DEE  ⷮ COMBINING CYRILLIC LETTER TE твердо надстрочно бꙋдеⷮ
+U+A64B ꙋ cyrillic small letter monograph uk икъ женꙋ̀
     ферт
-    хер
-    от
+U+2DEF  ⷯ COMBINING CYRILLIC LETTER HA хер надстрочно ва́шиⷯ
+U+0461 ѡ CYRILLIC SMALL LETTER OMEGA от
+U+047F ѿ CYRILLIC SMALL LETTER OT от ѿ ѿврати́стесѧ
+U+047C Ѽ CYRILLIC CAPITAL LETTER OMEGA WITH TITLO от Ѽ лю́тѣ
     цы
-    червь
+U+0427 Ч CYRILLIC CAPITAL LETTER CHE червь Что̑
     ша
     ща
     ер
+U+033E ̾ COMBINING VERTICAL TILDE (YERIK) ерокъ саваѻ́ѳ̾
     еры
-    ерь
+U+44C ь CYRILLIC SMALL LETTER SOFT SIGN ерь нѣсть
 U+0463 ѣ   CYRILLIC SMALL LETTER YAT ять хлѣ́бъ
     ю
-U+0467  ѧ  CYRILLIC SMALL LETTER LITTLE YUS юс  ꙁемлѧ̀
-    я
-    кси
+U+A656 Ꙗ CYRILLIC CAPITAL LETTER IOTIFIED A ѧ Ꙗ҆́ко
+U+A657 ꙗ CYRILLIC SMALL LETTER IOTIFIED A ꙗ ꙗ҆вле́на
+U+0467  ѧ  CYRILLIC SMALL LETTER LITTLE YUS ѧ  ꙁемлѧ̀
+U+046F ѯ CYRILLIC SMALL LETTER KSI кси а҆н̾фраѯъ
     пси
-    фита
+U+0473 ѳ CYRILLIC SMALL LETTER FITA саваѻ́ѳ̾ фита
     ижица
+U+0311  ̑ combining inverted breve (kamora) камо́ра свое̑го
 U+0300   а̀  combining grave accent (VARIA) вари́ѧ ꙁемлѧ̀
-U+0301  ́  combining acute accent острое ударение  дре́ва
-U+0486  ҆ combining cyrilic psili pneumata зва́тельцо   А҆
+U+0301  ́  combining acute accent оѯи́ѧ  дре́ва
+U+0486  ҆ combining cyrilic psili pneumata зва́тельцо   А҆ (If the word begins with vovel 0486 should be used; do not confuse with 0311) 
 U+0486 и U+0301  а҆́ combining cyrilic psili pneumata & combining acute accent  и҆́со а҆́ще
+U+002E . FULL STOP точка хощꙋ .
+U+00B7 · MIDDLE DOT ꙗ҆ви́ти ми сѧ · should be replaced with U+0387 GREEK ANO TELEIA  ·
+
+
+
+
+Symbols to get rid off
+U+0484 ҄ COMBINING CYRILLIC PALATALIZATION replace with U+0311
+U+2DF5  ⷵ COMBINING CYRILLIC LETTER ES-TE should be deprecated
