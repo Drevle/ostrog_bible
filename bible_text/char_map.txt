@@ -1,73 +1,82 @@
-Codes     Char      Name                         Traditional    Example
-U+0410      А       CYRILLIC CAPITAL LETTER A   А҆́зъ           А҆да́мꙋ же
-U+0430      а       CYRILLIC SMALL LETTER A    а҆́зъ
-U+2DF6  ⷶ COMBINING CYRILLIC LETTER A сиротⷶ
+Char Code Name         Traditional    Example
+А U+0410 CYRILLIC CAPITAL LETTER A   А҆́зъ           А҆да́мꙋ же
+а U+0430 CYRILLIC SMALL LETTER A    а҆́зъ
+ⷶ ⷶ U+2DF6 COMBINING CYRILLIC LETTER A сиротⷶ
     буки
-U+0412 В CYRILLIC CAPITAL LETTER VE веди Въспо́ю
-U+2DE2 ⷢ COMBINING CYRILLIC LETTER GHE  съра́менетвоеⷢ҇  глаголь
-    добро
-    есть
+В U+0412 CYRILLIC CAPITAL LETTER VE веди Въспо́ю
+ⷢⷢ ⷢ U+2DE2COMBINING CYRILLIC LETTER GHE  съра́менетвоеⷢ҇  глаголь
+      ⷣ U+2DE3 COMBINING CYRILLIC LETTER DE добро
+      ⷣꙵ U+2DE3 and U+A675 COMBINING CYRILLIC LETTER I (This is the IZHE TITLO, not a DOUBLE GRAVE ACCENT/KENDEMA)  влюⷣ‍ꙵ
+е U+0435 CYRILLIC SMALL LETTER IE есть е҆же
     живете
-U+2DE4  ⷤ COMBINING CYRILLIC LETTER ZHE живете надстрочно страⷤба
-U+0455 ѕ CYRILLIC SMALL LETTER DZE    зѣлѡ
-    земля
-U+0418 И CYRILLIC CAPITAL LETTER I иже И҆
-U+0438 и CYRILLIC SMALL LETTER I и҆
-U+0407 Ї (0406?) CYRILLIC CAPITAL LETTER YI Їи́мꙋтьсѧ
-U+0457 ї   CYRILLIC SMALL LETTER YI и въꙁвраще́нїе
-U+0456 and U+0301 і́ CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I & combining acute accent е҆ді́нъ
-    како
-U+2DE6 ⷦ and U+0487 COMBINING CYRILLIC LETTER KA and COMBINING CYRILLIC POKRYTIE како надстрочно ꙗ҆ꙁыⷦ҇
-    люди
-U+043c м   CYRILLIC SMALL LETTER EM мыслѣте
-U+2DE8  ⷨ  COMBINING CYRILLIC LETTER EM  мыслѣте надстрочно а҆даⷨ
-U+2DE9 ⷩ COMBINING CYRILLIC LETTER EN   ѻ҆стаⷩ‍҇кꙋ  наш
-U+2DEA ⷪ COMBINING CYRILLIC LETTER O он ⷪ҇
-    покой
-    рцы
-U+0421 С CYRILLIC CAPITAL LETTER ES слово Сребро̀
-U+0441 с CYRILLIC SMALL LETTER ES слово си́ротамъ
-U+2DED ⷭ and U+0487 COMBINING CYRILLIC LETTER ES and COMBINING CYRILLIC POKRYTIE слово надстрочно і҆ерⷭ҇лі́ма
-U+2DEE  ⷮ COMBINING CYRILLIC LETTER TE твердо надстрочно бꙋдеⷮ
-U+A64B ꙋ cyrillic small letter monograph uk икъ женꙋ̀
+    ⷤ U+2DE4 COMBINING CYRILLIC LETTER ZHE живете надстрочно страⷤба
+ѕ U+0455 CYRILLIC SMALL LETTER DZE ѕѣлѡ кнѧѕи
+ꙁ U+A641 CYRILLIC SMALL LETTER ZEMLYA земля (do not confuse with U+0437) ꙁанѐ
+З U+0417 CYRILLIC CAPITAL LETTER ZE Звѣзды
+з U+0437 CYRILLIC SMALL LETTER ZE і҆ѹ́да неꙁазриⷮ е҆фремꙋ
+     ⷥ U+2DE5 COMBINING CYRILLIC LETTER ZE раⷥгнѣвасѧ
+И U+0418 CYRILLIC CAPITAL LETTER I иже И҆
+и U+0438 CYRILLIC SMALL LETTER I и҆
+   ꙵ U+A675 COMBINING CYRILLIC LETTER I (IZHE TITLO)
+Ї U+0407 (0406?) CYRILLIC CAPITAL LETTER YI Їи́мꙋтьсѧ
+ї U+0457 CYRILLIC SMALL LETTER YI и въꙁвраще́нїе
+і́ U+0456 and U+0301 CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I & combining acute accent е҆ді́нъ
+к U+043A CYRILLIC SMALL LETTER KA како ꙗ҆́ко
+    ⷦ U+2DE6 and U+0487 COMBINING CYRILLIC LETTER KA and COMBINING CYRILLIC POKRYTIE како надстрочно ꙗ҆ꙁыⷦ҇
+л U+043B CYRILLIC SMALL LETTER EL люди лю́деⷨ
+м U+043c CYRILLIC SMALL LETTER EM мыслѣте
+      ⷨ U+2DE8 COMBINING CYRILLIC LETTER EM  мыслѣте надстрочно а҆даⷨ
+     ⷩ U+2DE9 COMBINING CYRILLIC LETTER EN   ѻ҆стаⷩ‍҇кꙋ  наш
+    ⷪ U+2DEA COMBINING CYRILLIC LETTER O он ⷪ҇
+П U+041F CYRILLIC CAPITAL LETTER PE Почерпѣте
+п U+043F CYRILLIC SMALL LETTER PE покой въспо́ите
+р U+0440 CYRILLIC SMALL LETTER ER рцы ра́дꙋитесѧ
+С U+0421 CYRILLIC CAPITAL LETTER ES слово Сребро̀
+с U+0441 CYRILLIC SMALL LETTER ES слово си́ротамъ
+    ⷭ U+2DED and U+0487 COMBINING CYRILLIC LETTER ES and COMBINING CYRILLIC POKRYTIE слово надстрочно і҆ерⷭ҇лі́ма
+      ⷮ U+2DEE COMBINING CYRILLIC LETTER TE твердо надстрочно бꙋдеⷮ
+ꙋ U+A64B cyrillic small letter monograph uk икъ женꙋ̀
+ѹ U+0479 CYRILLIC SMALL LETTER UK (DIGRAPH UK, ONIK) ѹ҆пова́ѧ
     ферт
-U+2DEF  ⷯ COMBINING CYRILLIC LETTER HA хер надстрочно ва́шиⷯ
-U+0461 ѡ CYRILLIC SMALL LETTER OMEGA от
-U+047F ѿ CYRILLIC SMALL LETTER OT от ѿ ѿврати́стесѧ should be deprecated
-U+047C Ѽ CYRILLIC CAPITAL LETTER OMEGA WITH TITLO от Ѽ лю́тѣ
-U+047D ѽ CYRILLIC SMALL LETTER OMEGA WITH TITLO И҆рекохъ , ѽ ѻ҆каѧ́нныи а҆ꙁъ
+      ⷯ U+2DEF COMBINING CYRILLIC LETTER HA хер надстрочно ва́шиⷯ
+ѡ U+0461 CYRILLIC SMALL LETTER OMEGA от
+ѿ U+047F CYRILLIC SMALL LETTER OT от ѿ ѿврати́стесѧ should be deprecated
+Ѽ U+047C CYRILLIC CAPITAL LETTER OMEGA WITH TITLO от Ѽ лю́тѣ
+ѽ U+047D CYRILLIC SMALL LETTER OMEGA WITH TITLO И҆рекохъ , ѽ ѻ҆каѧ́нныи а҆ꙁъ
     цы
-U+0427 Ч CYRILLIC CAPITAL LETTER CHE червь Что̑
-    ша
-    ща
-    ер
-U+033E ̾ COMBINING VERTICAL TILDE (YERIK) ерокъ саваѻ́ѳ̾
+Ч U+0427 CYRILLIC CAPITAL LETTER CHE червь Что̑
+ш U+0448 CYRILLIC SMALL LETTER SHA ша ѻ҆ста́вшимъ
+щ U+0449 CYRILLIC SMALL LETTER SHCHA ща щюдове
+ъ U+044A CYRILLIC SMALL LETTER HARD SIGN ер и҆ꙁъе҆гѷпта
+   ̾ U+033E COMBINING VERTICAL TILDE (YERIK) ерокъ саваѻ́ѳ̾
     еры
-U+44C ь CYRILLIC SMALL LETTER SOFT SIGN ерь нѣсть
-U+0463 ѣ   CYRILLIC SMALL LETTER YAT ять хлѣ́бъ
+ь U+44C CYRILLIC SMALL LETTER SOFT SIGN ерь нѣсть
+ѣ U+0463 CYRILLIC SMALL LETTER YAT ять хлѣ́бъ
     ю
-U+A656 Ꙗ CYRILLIC CAPITAL LETTER IOTIFIED A ѧ Ꙗ҆́ко
-U+A657 ꙗ CYRILLIC SMALL LETTER IOTIFIED A ꙗ ꙗ҆вле́на
-U+0467  ѧ  CYRILLIC SMALL LETTER LITTLE YUS ѧ  ꙁемлѧ̀
-U+046F ѯ CYRILLIC SMALL LETTER KSI кси а҆н̾фраѯъ
+Ꙗ U+A656 CYRILLIC CAPITAL LETTER IOTIFIED A ѧ Ꙗ҆́ко
+ꙗ U+A657 CYRILLIC SMALL LETTER IOTIFIED A ꙗ ꙗ҆вле́на
+ѧ U+0467 CYRILLIC SMALL LETTER LITTLE YUS ѧ  ꙁемлѧ̀
+ѯ U+046F CYRILLIC SMALL LETTER KSI кси а҆н̾фраѯъ
     пси
-U+0473 ѳ CYRILLIC SMALL LETTER FITA саваѻ́ѳ̾ фита
-U+0475 ѵ CYRILLIC SMALL LETTER IZHITSA ижица тѵⷨпа́ны
-U+0477 ѷ CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT
+ѳ U+0473 CYRILLIC SMALL LETTER FITA саваѻ́ѳ̾ фита
+   ⷴ U+2DF4  COMBINING CYRILLIC LETTER FITA саваѻⷴ҇
+ѵ U+0475 CYRILLIC SMALL LETTER IZHITSA ижица тѵⷨпа́ны
+ѷ U+0477 CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT
 It is not a standalone character at all, but rather an Izhitsa with a Kendema а҆сѷрїискомъ
-U+0311  ̑ combining inverted breve (kamora) камо́ра свое̑го
-U+0300   а̀  combining grave accent (VARIA) вари́ѧ ꙁемлѧ̀ note VARIA positioning - compare ѿѻ҆лтарѧ̀ and ѹ҆стн̀ѣ
-U+0301  ́  combining acute accent оѯи́ѧ  дре́ва
-U+0486  ҆ combining cyrilic psili pneumata зва́тельцо   А҆ (If the word begins with vovel 0486 should be used; do not confuse with 0311)
-U+0486 и U+0301  а҆́ combining cyrilic psili pneumata & combining acute accent  и҆́со а҆́ще
-U+002E . FULL STOP точка хощꙋ .
-U+00B7 · MIDDLE DOT ꙗ҆ви́ти ми сѧ · should be replaced with U+0387 GREEK ANO TELEIA  ·
-U+030F ̏ COMBINING DOUBLE GRAVE ACCENT (KENDEMA)
+     ҃ U+0483 COMBINING CYRILLIC TITLO (NUMBER TITLO) should be A66F дн҃ь
+     ̑ U+0311 combining inverted breve (kamora) камо́ра свое̑го
+а̀ U+0300  combining grave accent (VARIA) вари́ѧ ꙁемлѧ̀ note VARIA positioning - compare ѿѻ҆лтарѧ̀ and ѹ҆стн̀ѣ
+  ́ U+0301  combining acute accent оѯи́ѧ  дре́ва
+   ҆ U+0486 combining cyrilic psili pneumata зва́тельцо   А҆ (If the word begins with vovel 0486 should be used; do not confuse with 0311)
+ а҆́ U+0486 и U+0301 combining cyrilic psili pneumata & combining acute accent  и҆́со а҆́ще
+. U+002E FULL STOP точка хощꙋ .
+· U+00B7 MIDDLE DOT ꙗ҆ви́ти ми сѧ · should be replaced with U+0387 GREEK ANO TELEIA  ·
+   ̏ U+030F COMBINING DOUBLE GRAVE ACCENT (KENDEMA)
 In the Ostrog Bible script, the Kendema was also used both as a combining and a stand-alone character to indicate marginal readings or comments. The Kendema is used over the Izhitsa as well as in some other instances, for example, to indicate the dual of some words, or as a scripture verse divider, as in the Ostrog Bible. Note U+0477 above.
 
 
 
 Symbols to get rid off
-U+0484 ҄ COMBINING CYRILLIC PALATALIZATION replace with U+0311
-U+2DF5  ⷵ COMBINING CYRILLIC LETTER ES-TE should be deprecated
-U+047F ѿ CYRILLIC SMALL LETTER OT от ѿ ѿврати́стесѧ should be deprecated and replaced with 0461+ 2DEE, but it looks ugly.
+   ҄ U+0484 COMBINING CYRILLIC PALATALIZATION replace with U+0311
+      ⷵ U+2DF5 COMBINING CYRILLIC LETTER ES-TE should be deprecated
+ѿ U+047F CYRILLIC SMALL LETTER OT от ѿ ѿврати́стесѧ should be deprecated and replaced with 0461+ 2DEE, but it looks ugly.
